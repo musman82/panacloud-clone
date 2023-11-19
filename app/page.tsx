@@ -5,13 +5,17 @@ export default function Home() {
       <main>
         <div className="bg-gradient-to-r from-blue-400 to-emerald-400 p-32">
           <h1 className='text-center text-white text-5xl font-bold pb-8'>Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</h1>
-          <p className='text-center text-white'>Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users</p>
+          <p className='text-center text-white text-2xl'>Getting Ready for the Next Generation and Future of the Internet - Join a 13 Trillion Dollar Industry with 5 Billion Users</p>
         </div>
         <div className ="grid grid-cols-4 gap-1 justify-evenly">  
             <div></div>  
             <div className = "col-span-2">
               <h4 className='text-3xl text-green-600'>Certified Web 3.0 and Metaverse Developer: A Nationwide Program in Karachi, Lahore, Islamabad, and Peshawar</h4> 
               <img src='https://www.panaverse.co/red-p-logo-text_dao_croped.png' />
+              
+              <h4 className='py-8 text-3xl text-green-600'>Message From Sir Zia Khan (CEO PIAIC)</h4> 
+              <iframe width="1280" height="720" src="https://www.youtube.com/embed/PKxSC4ZG3W0" title="&quot;Certified AI, Web3 and Metaverse&quot; Developer &amp; Solopreneur Program. Visit https://www.piaic.org/" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+              {/* <iframe src="https://www.youtube.com/embed/PKxSC4ZG3W0" frameBorder="0" allow="autoplay; encrypted-media" allowfullscreen title="video"></iframe> */}
               <div className='py-8'>
                 <h4 className='text-2xl text-green-600'>The Future of the Web is Web 3.0, Metaverse, and Edge Computing. Panaverse DAO is a movement to spread these technolgies globally. It is community of Web 3 and Metaverse developers, designers, trainers, startup founders and service providers.</h4>
               </div>
